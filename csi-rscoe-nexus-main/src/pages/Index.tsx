@@ -7,7 +7,7 @@ import Team from '@/components/Team';
 import Blogs from '@/components/Blogs';
 import Contact from '@/components/Contact';
 import LoginModal from '@/components/LoginModal';
-
+import Footer from '@/components/Footer';
 const Index = () => {
   const [isLoginModalOpen, setIsLoginModalOpen] = useState(false);
 
